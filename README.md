@@ -1,2 +1,2 @@
-# W-rkout-Wednesday
+# 🤯Workout-Wednesday
 Power BI Challenges
