@@ -14,4 +14,4 @@ add +/- buttons to the row headers through the formatting pane under the Row hea
 ![image](https://github.com/manaswipatil/Workout-Wednesday/assets/50437663/a6444987-5535-4ca6-800b-69d9d10da849)
 
 ### Final report:
-![image](https://github.com/manaswipatil/Workout-Wednesday/assets/50437663/f1208587-0a55-4437-8c6a-c9a422d34738)
+<kbd>![image](https://github.com/manaswipatil/Workout-Wednesday/assets/50437663/f1208587-0a55-4437-8c6a-c9a422d34738)</kbd>
